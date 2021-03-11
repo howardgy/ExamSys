@@ -1,0 +1,16 @@
+.ques_block{
+    margin: 60px 0 100px 0;
+}
+
+.ques{
+    margin-bottom: 30px;
+    font-size: 15pt;
+}
+
+.wrong{
+    color: red;
+}
+
+.right{
+    color: green;
+}

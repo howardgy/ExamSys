@@ -1,0 +1,29 @@
+.page_topping{
+    margin-top: 80px;
+}
+
+.space{
+    margin-bottom: 10px;
+}
+
+.c{
+    text-align: center;
+}
+
+.flex_block{
+    display: inline-block;
+}
+
+.space_between{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+a{
+    cursor: pointer;
+}
+
+body {
+    background-color: #eee;
+}
